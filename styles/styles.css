@@ -702,11 +702,11 @@ footer {
    list-style-type: none;
 }
 
-.social_media_container li:hover {
+.social_media_container li:hover img {
    cursor: pointer;
-   padding: 0.2rem;
-   /* border: 0.1rem solid hsl(194, 95%, 59%); */
-   background: hsl(194, 95%, 59%);
+   filter: brightness(0) invert(1);
+   transition: all 350ms;
+   transform: scale(1.1);
 }
 
 .newsletter_container {
