@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Huddle landing page with curved sections solution](./design/desktop-preview.jpeg)
+![Huddle landing page with curved sections solution](./design/desktop-preview.png)
 
 ### Links
 
