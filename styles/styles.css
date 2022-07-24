@@ -156,7 +156,7 @@ main {
    }
 }
 
-#get_started_btn {
+.get_started_btn {
    padding: 1.5rem 5rem;
    background: var(--pink);
    border-radius: 2rem;
@@ -166,7 +166,7 @@ main {
    box-shadow: 0 0 0.5rem var(--light-pink-rgba);
 }
 
-#get_started_btn:hover {
+.get_started_btn:hover {
    cursor: pointer;
    background: var(--light-pink);
 }
