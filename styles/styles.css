@@ -702,10 +702,14 @@ footer {
    list-style-type: none;
 }
 
-.social_media_container li:hover img {
-   cursor: pointer;
+.social_media_container li img {
    filter: brightness(0) invert(1);
    transition: all 350ms;
+}
+
+.social_media_container li:hover img {
+   cursor: pointer;
+   filter: unset;
    transform: scale(1.1);
 }
 
